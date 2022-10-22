@@ -14,7 +14,7 @@ I'm a self-taught passionate developer from Nepal 🇳🇵
 
 
 
-| <a href="https://github.com/ujjwalnp/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalnp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ujjwal's github stats" /></a> | <a href="https://github.com/ujjwalnp/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalnp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ujjwalnp/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalnp&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="ujjwal's github stats" /></a> | <a href="https://github.com/ujjwalnp/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalnp&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
